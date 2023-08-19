@@ -1,0 +1,51 @@
+/* ContentWriterPanel.css */
+
+.content-writer-panel {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.blog-form {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+
+.blog-form h3 {
+  margin-top: 0;
+}
+
+.blog-form input,
+.blog-form textarea {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.blog-form button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.blog-list {
+  margin-top: 20px;
+}
+
+.blog-item {
+  background-color: #f7f7f7;
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.blog-item h4 {
+  margin-top: 0;
+}
+
+.blog-item p {
+  margin: 0;
+}

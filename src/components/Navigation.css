@@ -1,0 +1,26 @@
+/* Navigation.css */
+
+.navigation {
+    background-color: #333;
+    color: white;
+  }
+  
+  .navigation ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+  
+  .navigation li {
+    margin-right: 20px;
+  }
+  
+  .navigation a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navigation a:hover {
+    text-decoration: underline;
+  }
+  
